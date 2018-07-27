@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "513761818284",
+    "firebase_url": "https://infopy-5003e.firebaseio.com",
+    "project_id": "infopy-5003e",
+    "storage_bucket": "infopy-5003e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513761818284:android:4d75c066e6dc554b",
+        "android_client_info": {
+          "package_name": ".login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513761818284-nkooe7uddvrs154c8vv4uq29ffkc0pdc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "513761818284-nkooe7uddvrs154c8vv4uq29ffkc0pdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt20s7lph_djv5K6cC7csGNTN5foyUxzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
